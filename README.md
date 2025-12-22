@@ -1,1 +1,1 @@
-# Spatial_project_burger_locations-in-banglore
+# Spatial project burger locations in Bangalore
